@@ -6,5 +6,5 @@
 
 前端仓库地址: [点击前往](https://github.com/jzab-nb/abapi-frontend)
 
-在线地址: [点击前往](http://vip.jzab.xyz:2048)
+在线地址: 暂未上线
 
